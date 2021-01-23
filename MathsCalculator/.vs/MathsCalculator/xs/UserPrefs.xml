@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{478A20D0-D841-486C-B626-0CA9C6DD76CC}|Default">
+  <MonoDevelop.Ide.ItemProperties.NumberBaseConverter FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NumberBaseConverter/Program.cs">
+    <Files>
+      <File FileName="NumberBaseConverter/Program.cs" Line="32" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MathsCalculator" expanded="True">
+            <Node name="NumberBaseConverter" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
