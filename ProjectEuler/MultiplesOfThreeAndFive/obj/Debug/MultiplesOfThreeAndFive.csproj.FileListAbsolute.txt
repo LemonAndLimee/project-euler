@@ -1,0 +1,6 @@
+/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/ProjectEuler/MultiplesOfThreeAndFive/bin/Debug/MultiplesOfThreeAndFive.exe
+/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/ProjectEuler/MultiplesOfThreeAndFive/bin/Debug/MultiplesOfThreeAndFive.pdb
+/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/ProjectEuler/MultiplesOfThreeAndFive/obj/Debug/MultiplesOfThreeAndFive.csprojAssemblyReference.cache
+/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/ProjectEuler/MultiplesOfThreeAndFive/obj/Debug/MultiplesOfThreeAndFive.csproj.CoreCompileInputs.cache
+/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/ProjectEuler/MultiplesOfThreeAndFive/obj/Debug/MultiplesOfThreeAndFive.exe
+/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/ProjectEuler/MultiplesOfThreeAndFive/obj/Debug/MultiplesOfThreeAndFive.pdb

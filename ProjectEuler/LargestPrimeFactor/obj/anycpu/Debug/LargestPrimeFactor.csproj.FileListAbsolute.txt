@@ -1,0 +1,5 @@
+/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/ProjectEuler/LargestPrimeFactor/bin/Debug/LargestPrimeFactor.exe
+/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/ProjectEuler/LargestPrimeFactor/bin/Debug/LargestPrimeFactor.pdb
+/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/ProjectEuler/LargestPrimeFactor/obj/anycpu/Debug/LargestPrimeFactor.csproj.CoreCompileInputs.cache
+/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/ProjectEuler/LargestPrimeFactor/obj/anycpu/Debug/LargestPrimeFactor.exe
+/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/ProjectEuler/LargestPrimeFactor/obj/anycpu/Debug/LargestPrimeFactor.pdb

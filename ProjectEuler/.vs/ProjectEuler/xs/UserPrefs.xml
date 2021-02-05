@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{4E9C3E63-7EB0-41F2-87AB-EB5EF48E36F4}|Default">
+  <MonoDevelop.Ide.ItemProperties.LargestPrimeFactor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LargestPalindromeProject/Program.cs">
+    <Files>
+      <File FileName="MultiplesOfThreeAndFive/Program.cs" Line="17" Column="18" />
+      <File FileName="EvenFibonacci/Program.cs" Line="16" Column="49" />
+      <File FileName="LargestPrimeFactor/Program.cs" Line="23" Column="22" />
+      <File FileName="LargestPalindromeProject/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjectEuler" expanded="True">
+            <Node name="LargestPalindromeProject" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LargestPalindromeProject FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EvenFibonacci PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MultiplesOfThreeAndFive PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

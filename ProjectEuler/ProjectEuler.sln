@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplesOfThreeAndFive", "MultiplesOfThreeAndFive\MultiplesOfThreeAndFive.csproj", "{09781764-8996-46D2-A56E-0A6E2CA1A69D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenFibonacci", "EvenFibonacci\EvenFibonacci.csproj", "{77BB230F-F81E-4023-9FF8-FC15A4C664CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestPrimeFactor", "LargestPrimeFactor\LargestPrimeFactor.csproj", "{4E9C3E63-7EB0-41F2-87AB-EB5EF48E36F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestPalindromeProject", "LargestPalindromeProject\LargestPalindromeProject.csproj", "{50B5B4EB-F488-4739-BF7D-09CFF8798193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09781764-8996-46D2-A56E-0A6E2CA1A69D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{09781764-8996-46D2-A56E-0A6E2CA1A69D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{09781764-8996-46D2-A56E-0A6E2CA1A69D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{09781764-8996-46D2-A56E-0A6E2CA1A69D}.Release|anycpu.Build.0 = Release|anycpu
+		{77BB230F-F81E-4023-9FF8-FC15A4C664CF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{77BB230F-F81E-4023-9FF8-FC15A4C664CF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{77BB230F-F81E-4023-9FF8-FC15A4C664CF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{77BB230F-F81E-4023-9FF8-FC15A4C664CF}.Release|anycpu.Build.0 = Release|anycpu
+		{4E9C3E63-7EB0-41F2-87AB-EB5EF48E36F4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{4E9C3E63-7EB0-41F2-87AB-EB5EF48E36F4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{4E9C3E63-7EB0-41F2-87AB-EB5EF48E36F4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{4E9C3E63-7EB0-41F2-87AB-EB5EF48E36F4}.Release|anycpu.Build.0 = Release|anycpu
+		{50B5B4EB-F488-4739-BF7D-09CFF8798193}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{50B5B4EB-F488-4739-BF7D-09CFF8798193}.Debug|anycpu.Build.0 = Debug|anycpu
+		{50B5B4EB-F488-4739-BF7D-09CFF8798193}.Release|anycpu.ActiveCfg = Release|anycpu
+		{50B5B4EB-F488-4739-BF7D-09CFF8798193}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
