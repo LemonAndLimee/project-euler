@@ -1,6 +1,0 @@
-/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/MathsCalculator/NumberBaseConverter/bin/Debug/NumberBaseConverter.exe
-/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/MathsCalculator/NumberBaseConverter/bin/Debug/NumberBaseConverter.pdb
-/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/MathsCalculator/NumberBaseConverter/obj/Debug/NumberBaseConverter.csprojAssemblyReference.cache
-/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/MathsCalculator/NumberBaseConverter/obj/Debug/NumberBaseConverter.csproj.CoreCompileInputs.cache
-/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/MathsCalculator/NumberBaseConverter/obj/Debug/NumberBaseConverter.exe
-/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/MathsCalculator/NumberBaseConverter/obj/Debug/NumberBaseConverter.pdb

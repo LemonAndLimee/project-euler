@@ -1,31 +1,33 @@
-﻿<Properties StartupConfiguration="{4E9C3E63-7EB0-41F2-87AB-EB5EF48E36F4}|Default">
+﻿<Properties StartupConfiguration="{775B49EB-B232-4C9E-ACF0-9FC3683F6842}|Default">
   <MonoDevelop.Ide.ItemProperties.LargestPrimeFactor PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LargestPalindromeProject/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LargestProductInSeries/Program.cs">
     <Files>
-      <File FileName="MultiplesOfThreeAndFive/Program.cs" Line="17" Column="18" />
-      <File FileName="EvenFibonacci/Program.cs" Line="16" Column="49" />
-      <File FileName="LargestPrimeFactor/Program.cs" Line="23" Column="22" />
-      <File FileName="LargestPalindromeProject/Program.cs" Line="1" Column="1" />
+      <File FileName="LargestProductInSeries/Program.cs" Line="13" Column="57" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ProjectEuler" expanded="True">
-            <Node name="LargestPalindromeProject" expanded="True">
+            <Node name="LargestProductInSeries" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="SumSquareDifference" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.LargestPalindromeProject FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.10001stPrime PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.LargestPalindromeProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.EvenFibonacci PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.MultiplesOfThreeAndFive PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.LargestProductInSeries FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SumSquareDifference PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SmallestMultiple PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
