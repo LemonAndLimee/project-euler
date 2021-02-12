@@ -1,1 +1,1 @@
-# csharp-casual-practice
+# project-euler
