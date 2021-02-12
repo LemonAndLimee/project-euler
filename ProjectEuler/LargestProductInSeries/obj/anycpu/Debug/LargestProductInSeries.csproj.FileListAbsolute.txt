@@ -1,0 +1,10 @@
+/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/ProjectEuler/LargestProductInSeries/bin/Debug/LargestProductInSeries.exe
+/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/ProjectEuler/LargestProductInSeries/bin/Debug/LargestProductInSeries.pdb
+/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/ProjectEuler/LargestProductInSeries/obj/anycpu/Debug/LargestProductInSeries.csproj.CoreCompileInputs.cache
+/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/ProjectEuler/LargestProductInSeries/obj/anycpu/Debug/LargestProductInSeries.exe
+/Users/lucy/Documents/Home/GitHub/csharp-casual-practice/ProjectEuler/LargestProductInSeries/obj/anycpu/Debug/LargestProductInSeries.pdb
+/Users/lucy/Documents/Home/GitHub/project-euler/ProjectEuler/LargestProductInSeries/bin/Debug/LargestProductInSeries.exe
+/Users/lucy/Documents/Home/GitHub/project-euler/ProjectEuler/LargestProductInSeries/bin/Debug/LargestProductInSeries.pdb
+/Users/lucy/Documents/Home/GitHub/project-euler/ProjectEuler/LargestProductInSeries/obj/anycpu/Debug/LargestProductInSeries.csproj.CoreCompileInputs.cache
+/Users/lucy/Documents/Home/GitHub/project-euler/ProjectEuler/LargestProductInSeries/obj/anycpu/Debug/LargestProductInSeries.exe
+/Users/lucy/Documents/Home/GitHub/project-euler/ProjectEuler/LargestProductInSeries/obj/anycpu/Debug/LargestProductInSeries.pdb

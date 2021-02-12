@@ -3,3 +3,8 @@
 /Users/lucy/Documents/Home/GitHub/csharp-casual-practice/ProjectEuler/10001stPrime/obj/anycpu/Debug/10001stPrime.csproj.CoreCompileInputs.cache
 /Users/lucy/Documents/Home/GitHub/csharp-casual-practice/ProjectEuler/10001stPrime/obj/anycpu/Debug/10001stPrime.exe
 /Users/lucy/Documents/Home/GitHub/csharp-casual-practice/ProjectEuler/10001stPrime/obj/anycpu/Debug/10001stPrime.pdb
+/Users/lucy/Documents/Home/GitHub/project-euler/ProjectEuler/10001stPrime/bin/Debug/10001stPrime.exe
+/Users/lucy/Documents/Home/GitHub/project-euler/ProjectEuler/10001stPrime/bin/Debug/10001stPrime.pdb
+/Users/lucy/Documents/Home/GitHub/project-euler/ProjectEuler/10001stPrime/obj/anycpu/Debug/10001stPrime.csproj.CoreCompileInputs.cache
+/Users/lucy/Documents/Home/GitHub/project-euler/ProjectEuler/10001stPrime/obj/anycpu/Debug/10001stPrime.exe
+/Users/lucy/Documents/Home/GitHub/project-euler/ProjectEuler/10001stPrime/obj/anycpu/Debug/10001stPrime.pdb
